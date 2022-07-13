@@ -1,0 +1,7 @@
+C:\Users\jose\source\repos\App banco\App banco\obj\Debug\App banco.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\App banco\App banco\obj\Debug\App banco.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\App banco\App banco\bin\Debug\App banco.exe.config
+C:\Users\jose\source\repos\App banco\App banco\bin\Debug\App banco.exe
+C:\Users\jose\source\repos\App banco\App banco\bin\Debug\App banco.pdb
+C:\Users\jose\source\repos\App banco\App banco\obj\Debug\App banco.exe
+C:\Users\jose\source\repos\App banco\App banco\obj\Debug\App banco.pdb
