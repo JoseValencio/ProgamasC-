@@ -1,0 +1,7 @@
+C:\Users\jose\source\repos\App Series\App Series\obj\Debug\App Series.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\App Series\App Series\obj\Debug\App Series.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\App Series\App Series\bin\Debug\App Series.exe.config
+C:\Users\jose\source\repos\App Series\App Series\bin\Debug\App Series.exe
+C:\Users\jose\source\repos\App Series\App Series\bin\Debug\App Series.pdb
+C:\Users\jose\source\repos\App Series\App Series\obj\Debug\App Series.exe
+C:\Users\jose\source\repos\App Series\App Series\obj\Debug\App Series.pdb
