@@ -1,0 +1,8 @@
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\bin\Debug\GerarSenhas.exe.config
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\bin\Debug\GerarSenhas.exe
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\bin\Debug\GerarSenhas.pdb
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\obj\Debug\GerarSenhas.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\obj\Debug\GerarSenhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\obj\Debug\GerarSenhas.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\obj\Debug\GerarSenhas.exe
+C:\Users\valen\source\repos\GerarSenhas\GerarSenhas\obj\Debug\GerarSenhas.pdb
