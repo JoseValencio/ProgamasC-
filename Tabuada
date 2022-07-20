@@ -1,0 +1,66 @@
+using System;
+
+public class Tabuada
+{
+    public static void Main(string[] args)
+    {
+        int valor = 10; 
+        double Result;
+        Console.WriteLine("Informa o Numero da Tabuada");
+        double N = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Qual Operação você quer?");
+		Console.WriteLine("Digite + para  Soma");
+		Console.WriteLine("Digite - para  Subtração");
+		Console.WriteLine("Digite / para  Divisão");
+		Console.WriteLine("Digite * para  Multiplicação");
+        string operacao = Console.ReadLine();        
+       
+        switch(operacao){
+				
+		  case "+": 
+				
+                  for (int i=1; i <= valor; i++){
+        
+                  Result = i + N;
+            
+                  Console.WriteLine(i + " + " + N + " = " + Result );
+		
+        
+        }
+	break;
+		 case "-": 
+		 
+                 for (int i=1; i <= valor; i++){
+        
+                 Result = N - i;
+            
+                 Console.WriteLine(i + " - " + N + " = " + Result );
+		
+        
+        }
+	break;
+		case "*":
+				
+		for (int i=1; i <= valor; i++){
+        
+                Result = N * i;
+            
+		Console.WriteLine(i + " * " + N + " = " + Result );
+				  }
+        break;
+        
+		 case "/":
+				
+		 for (int i=1; i <= valor; i++){
+        
+                 Result = i / N;
+					  
+            
+                 Console.WriteLine( i + " / " + N + " = " +  Result);
+				  }
+       break;
+        }
+     
+	
+	}
+}
