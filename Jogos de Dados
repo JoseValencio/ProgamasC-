@@ -1,0 +1,43 @@
+Random dice = new Random();
+
+int dado1 = dice.Next(1, 7);
+int dado2 = dice.Next(1, 7);
+int dado3 = dice.Next(1, 7);
+
+int total = dado1 + dado2 + dado3;
+
+Console.WriteLine($"Dados Rolados: {dado1} + {dado2} + {dado3} = {total}");
+
+//Comparação dos Pontos para ganha bonus.
+
+if((dado1 == dado2) | (dado2 == dado3) | (dado1 == dado2))
+{
+  
+    if((dado1 == dado2) && (dado2 == dado3)){
+
+
+    Console.WriteLine("Você tirou três dados Iguais! Ganhou um bonus de + 6 pontos!");
+    total +=6;
+}else
+{   
+      Console.WriteLine("Você tirou dois dados Iguais! Ganhou um bonus de + 2 pontos!");
+    total +=2;
+
+   }
+}
+
+// Possivel premios de acordo com a Pontuação 
+
+if(total >= 16){
+
+    Console.WriteLine("Você ganhou um carro: ");
+    
+}
+else if(total >=10)
+{
+    Console.WriteLine("Você ganhou um computador");
+}
+else if(total >= 7)
+{
+    Console.WriteLine("Você ganhou um bicicleta");
+}
